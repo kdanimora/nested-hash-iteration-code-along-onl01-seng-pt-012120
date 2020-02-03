@@ -13,9 +13,10 @@ require 'pry'
   #     favorite_ice_cream_flavors: ["strawberry", "cookie dough", "mint chip"]
   #   }
   # }
+
+end
 contacts.each do |person, contact_details_hash|
   binding.pry
 end
-
 def 
 end
